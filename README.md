@@ -1,6 +1,6 @@
 # youtubetopdf
-YouTube Video to Screenshots: Python script to download and capture frames at specified intervals, creating a visual summary.
+YouTube Video to Screenshots: A Python script that captures frames from a video at chosen intervals to make a visual summary.
 
-You can downlaod the pdf of youtube video screen shot at particular time interval so that you can save you time.
+You can download a PDF with screenshots from a YouTube video taken at specific times to save time.
 ![cli](./yt.png)
 
